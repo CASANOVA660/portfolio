@@ -12,4 +12,4 @@ popupLiveLink: "https://expenses-analyzer.pantak.net/"
 techIcons: ["react", "html5", "css3", "bootstrap", "d3dotjs"]
 ---
 
-Expenses analyzer is a React-based app, that allows the user to analyze bank statements from (at the moment) polish Mbank bank accounts.
+Expenses analyzer is a React-based app, that allows the user to analyze bank statements
