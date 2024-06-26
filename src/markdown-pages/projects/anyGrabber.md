@@ -23,6 +23,6 @@ installation.
 - Extraction of login date and IP address/es
 - Generation of checksums for retrieved files
 - Creation of .txt and .csv reports based on found data
-- Support for English and Polish languages
+- Support for English
 - User-friendly interface
 - Portable
